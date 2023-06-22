@@ -77,6 +77,10 @@ print(t_test_result)
 
 **Question 3.2**: What is the $p$-value of the test, and what does that mean? Write down your answer below.
 
+The p-value is 0.06871.It shows the probability of observing a test statistic, while assuming that the null hypothesis is true. 
+The null hypothesis: true difference in means between group equal to 0 and group more that 0 is equal to 0.
+
+Since the p-value (0.06871) is greater than the significance level of 0.05, we do not  reject the null hypothesis. This means that we do not have sufficient evidence to conclude that there is a significant difference in means between the two groups (0 revolutions and more than 0 revolutions).
 
 We can also control for other factors by including them in a linear model, for example:
 

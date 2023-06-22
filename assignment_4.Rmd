@@ -4,8 +4,8 @@ title: |
   | Introduction to Applied Data Science
   | 2022-2023
 author: |
-  | Your Name
-  | your_email@students.uu.nl
+  | Greta Aidietyte
+  | g.aidietyte@students.uu.nl
   | http://www.github.com/yourgithubname
 date: April 2023
 urlcolor: purple

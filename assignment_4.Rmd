@@ -59,6 +59,7 @@ datasummary(growth+rgdp60~treat*(Mean+Median+SD+Min+Max),data=GrowthSW)
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+#The table compares the growth and real GDP (rgdp60) of two groups. The mean and median growth values for both groups are higher than zero, indicating overall positive growth. However, the growth in the second group has a higher standard deviation, suggesting greater variability in the data. The mean and median rgdp60 values for both groups are considerably different, indicating a significant disparity in their economic outputs.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
